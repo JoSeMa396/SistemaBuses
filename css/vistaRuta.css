@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+h1{
+    color:red;
+    padding: 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, Verdana;
+    /*font-family: Georgia, Cambria, Times, "Times New Roman";*/
+    font-weight: 900;
+  }
+  .class-dropdown{
+    text-align: center;
+  }
+  .dropdown{
+      text-align: center;
+      /*padding: 20px;*/
+      
+  }
+  .dropdown label{
+      text-align: center;
+      /*color: white;*/
+      font-weight: 900;
+     
+  }
+  .dropdown button{
+    font-weight: 400;
+    margin-right:20px;
+    
+  }
+  .boton{
+      text-align: center;
+      padding: 100px;
+  }
+.boton button a{
+    color: white;
+}
+.boton button{
+    margin-right:0px;
+    margin-left: 20px;
+}

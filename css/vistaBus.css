@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    color:red;
+    padding: 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, Verdana;
+    font-weight: 900;
+  }
+  .class-dropdown{
+    text-align: center;
+  }
+  .dropdown{
+      text-align: center;
+      /*padding: 20px;*/
+  }
+  .dropdown label{
+      text-align: center;
+      /*color: white;*/
+      font-weight: 900;
+      margin-left: 50px;
+     
+  }
+  .dropdown button{
+    font-weight: 400;
+    margin-right:20px;
+    
+  }
+  .boton{
+      text-align: center;
+      padding: 50px;
+  }
+.boton button a{
+    color: white;
+}
+.boton button{
+    margin-right:0px;
+    margin-left: 20px;
+}
